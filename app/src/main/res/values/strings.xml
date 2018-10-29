@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Card Gallery</string>
+    <string name="submit">Submit</string>
+    <string name="enterdetails">*Enter details below:</string>
+
+
+    <!--**************SIGNIN & REGISTER ACTIVITY***************-->
+
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="alreadyreg">Already registered? <b>Login</b></string>
+    <string name="newacc">New here? <b>Sign up</b></string>
+
+
+    <!--**************HOME ACTIVITY***************-->
+
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!--**************AADHAAR CARD ACTIVITY***************-->
+
+    <string name="message">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="turn_off_flashlight">FlashLight on</string>
+    <string name="turn_on_flashlight">flashLight off</string>
+    <string name="title_activity_aadhaar_card_details">Aadhaar Card Details</string>
+
+
+    <!--**************PAN CARD ACTIVITY***************-->
+    <string name="panname">Name</string>
+    <string name="pancardnum">Pan Card number</string>
+
+
+    <string name="title_activity_pan_card_details">Pan Card Details</string>
+    <string name="title_activity_passport_details">Passport Details</string>
+    <string name="title_activity_voter_id__details">VoterID Details</string>
+    <string name="title_activity_driving_license__details">Driving License Details</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <!--**************ENTER PASSWORD***************-->
+
+    <string name="input_pin">Enter Password</string>
+    <string name="desc_pin">Tutorial input 4 digits PIN</string>
+    <string name="msg_complete_your_pin">Incorrect Password</string>
+    <string name="msg_open_your_next_activity">Done</string>
+
+    <!--**************CREATE PASSWORD***************-->
+
+    <string name="createpwd">Create a password before saving your details on this device.</string>
+    <string name="createpwd2">Your password must contain 4 digit number only.\ne.g. 1234</string>
+
+    <!--**************MEDICLAIM ACTIVITY***************-->
+    <string name="title_activity_mediclaim_details">Mediclaim Details</string>
+
+
+    <!--**************CREDIT CARD ACTIVITY***************-->
+    <string name="title_activity_credit_card_details">Credit Card Details</string>
+    <string name="title_activity_credit_card">Credit Card</string>
+    <string name="title_activity_debit_card">Debit Card Activity</string>
+    <string name="title_activity_debit_card_details">DebitCard Details</string>
+
+
+</resources>

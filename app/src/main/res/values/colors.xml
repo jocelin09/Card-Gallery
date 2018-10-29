@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!--
+    <color name="colorPrimary">#7A1EA1</color>
+    <color name="colorPrimaryDark">#691A99</color>-->
+
+
+    <color name="colorPrimary">#9B26AF</color>
+    <color name="colorPrimaryDark">#7A1EA1</color>
+<!--
+    <color name="colorAccent">#68EFAD</color>
+-->
+    <color name="colorAccent">#FF1493</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="lemon">#f1c000</color>
+    <color name="lemon1">#f1c00f</color><!-- right one-->
+    <color name="lightorange">#fdf2df</color>
+    <color name="button">#e4e0da</color>
+    <color name="lightorangedark">#ebd6ab</color>
+    <color name="bg_row_background">#fa315b</color>
+    <color name="item_name">#535353</color>
+    <color name="description">#a9a9a9</color>
+    <color name="semi_white_transparant">#70ffffff</color>
+
+</resources>

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1073354350285",
+    "firebase_url": "https://carddetails-6693e.firebaseio.com",
+    "project_id": "carddetails-6693e",
+    "storage_bucket": "carddetails-6693e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073354350285:android:e47016f861f3fd08",
+        "android_client_info": {
+          "package_name": "com.cardmgnt.jocelinthomas.carddetails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073354350285-199hd3pd8qnhd82cbthcdsfgdcc6dlj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cardmgnt.jocelinthomas.carddetails",
+            "certificate_hash": "8a76bf82b2caa40d2e98f67127211643f2b846d8"
+          }
+        },
+        {
+          "client_id": "1073354350285-c9r8j11jojkdq34uq3kv4ffpctmk76fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cardmgnt.jocelinthomas.carddetails",
+            "certificate_hash": "0a2ed397f62a64447d4b7bee1a4a996388d158f1"
+          }
+        },
+        {
+          "client_id": "1073354350285-cujd6ao0p67gb46tg27k0aqsumgc352i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMLGAwKQd5pRIt6CsjFMBzAKyp5QnCDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073354350285-cujd6ao0p67gb46tg27k0aqsumgc352i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
