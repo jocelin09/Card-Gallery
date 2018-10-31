@@ -29,88 +29,109 @@
         <activity
             android:name=".Home.HomeActivity"
             android:label="@string/title_activity_home"
+            android:screenOrientation="portrait"
             android:theme="@style/AppTheme" />
         <activity
             android:name=".Aadhaar.AadhaarActivity"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="Aadhaar Card" />
         <activity
             android:name=".Pan.PanCardActivity"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="Pan Card" />
         <activity
             android:name=".Aadhaar.ScannerActivity"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="Aadhaar Card" />
         <activity
             android:name=".Aadhaar.AadhaarCardDetails"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="@string/title_activity_aadhaar_card_details"
             android:theme="@style/AppTheme" />
         <activity
             android:name=".Pan.PanCardDetails"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="@string/title_activity_pan_card_details"
             android:theme="@style/AppTheme" />
         <activity
             android:name=".Passport.PassportActivity"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="Passport" />
         <activity
             android:name=".Passport.PassportDetailsActivity"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="@string/title_activity_passport_details"
             android:theme="@style/AppTheme" />
         <activity
             android:name=".VoterID.VoterIDActivity"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="Voter ID" />
         <activity
             android:name=".DrivingLicense.DrivingLicenseActivity"
+            android:screenOrientation="portrait"
             android:configChanges="orientation|screenSize"
             android:label="Driving License" />
         <activity
             android:name=".VoterID.VoterID_Details"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="@string/title_activity_voter_id__details"
             android:theme="@style/AppTheme" />
         <activity
             android:name=".DrivingLicense.DrivingLicense_Details"
             android:configChanges="orientation|screenSize"
             android:label="@string/title_activity_driving_license__details"
+            android:screenOrientation="portrait"
             android:theme="@style/AppTheme" />
         <activity
             android:name=".CreatePassword"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="Create Password" />
         <activity
             android:name=".EnterPassword"
-            android:configChanges="orientation|screenSize" />
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Home.ScanDocument"
             android:configChanges="orientation|screenSize" />
         <activity
             android:name=".Mediclaim.MediclaimActivity"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="Mediclaim" />
         <activity
             android:name=".Mediclaim.MediclaimDetailsActivity"
             android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
             android:label="@string/title_activity_mediclaim_details"
             android:theme="@style/AppTheme" />
         <activity
             android:name=".CreditCard.CreditCardActivity"
+            android:screenOrientation="portrait"
             android:label="@string/title_activity_credit_card"
             android:theme="@style/AppTheme" />
         <activity
             android:name=".CreditCard.CreditCardDetails"
+            android:screenOrientation="portrait"
             android:label="@string/title_activity_credit_card_details"
             android:theme="@style/AppTheme" />
+
         <activity android:name=".DebitCard.DebitCardActivity"
+            android:screenOrientation="portrait"
             android:label="Debit Card"/>
         <activity
             android:name=".DebitCard.DebitCardDetailsActivity"
             android:label="@string/title_activity_debit_card_details"
+            android:screenOrientation="portrait"
             android:theme="@style/AppTheme"></activity>
     </application>
 
