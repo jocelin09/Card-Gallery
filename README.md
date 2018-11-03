@@ -17,8 +17,8 @@ An android application that is designed in order to store important information 
 
  - Application will ask for password as soon as it is opened as the first step. User should enter a password containing only numbers and of length 4 e.g. 1234
  
-<b> In case of any issue or query, please write to jocelinthomas177@gmail.com</b>
+##### <b> In case of any issue or query, please write to jocelinthomas177@gmail.com</b>
 
-###### Attaching some screenshots:
+##### <b> Attaching some screenshots: </b> 
 
-<img src = "images/Password.png" width = "250" />
+<img src = "images/Password.png" width = "250" />                                         <img src = "images/AadhaarCard.png" width = "250" />
