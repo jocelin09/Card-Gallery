@@ -21,4 +21,10 @@ An android application that is designed in order to store important information 
 
 ##### <b> Attaching some screenshots: </b> 
 
-<img src = "images/Password.png" width = "250" />                                         <img src = "images/AadhaarCard.png" width = "250" />
+<img src = "images/Password.png" width = "250" />                                                                          
+
+
+
+
+
+<img src = "images/AadhaarCard.png" width = "250" />
